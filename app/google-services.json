@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516730336171",
+    "project_id": "gym23-53b44",
+    "storage_bucket": "gym23-53b44.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516730336171:android:963dd9ef8433492e8e58ee",
+        "android_client_info": {
+          "package_name": "com.example.gym23"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAApRXqR2ZEmWDsIC3XVg4LrUYSoiphT-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
